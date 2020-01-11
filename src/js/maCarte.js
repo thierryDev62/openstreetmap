@@ -1,6 +1,6 @@
 // Script d'affichage de la carte sur contact.html
 
-// On initialise la latitude et la longitude de l'adresse d'Aux Plaisirs Sucrés à Haillicourt (centre de la carte)
+// On initialise la latitude et la longitude de l'Agence et du bien
 let latAgence = 50.4676822;
 let lonAgence = 2.5603700000000345;
 let latBien = 50.467886;

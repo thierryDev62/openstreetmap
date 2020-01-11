@@ -1,4 +1,4 @@
-// Script d'affichage de la carte sur contact.html
+// Script d'affichage de la carte openStreetMap
 
 // On initialise la latitude et la longitude de l'Agence et du bien
 let latAgence = 50.4676822;

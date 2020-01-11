@@ -37,7 +37,7 @@ function initMap() {
 
     // Marqueur agence
     let iconeAgence = L.icon({
-        iconUrl: 'icone-lacr-immo.png',
+        iconUrl: 'src/img/icone-lacr-immo.png',
         iconSize: [65, 65],
         iconAnchor: [32, 60],
         popupAnchor: [-1, -60]
@@ -55,7 +55,7 @@ function initMap() {
 
     // Marqueur Bien
     let iconeBien = L.icon({
-        iconUrl: 'icone-bien.png',
+        iconUrl: 'src/img/icone-bien.png',
         iconSize: [65, 65],
         iconAnchor: [32, 60],
         popupAnchor: [-1, -60]

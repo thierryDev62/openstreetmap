@@ -3,8 +3,22 @@ body {
     margin: auto;
     background: chocolate;
 }
+
+.container-full {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-5 {
+    margin-top: 20px;
+}
+
 #map {
-    /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
+    /* this map MUST have a height otherwise it does not appear */
     height: 400px;
     width: 100%;
     z-index: 1;

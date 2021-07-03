@@ -1,5 +1,7 @@
 body {
-    background: silver;
+    padding: 0;
+    margin: auto;
+    background: chocolate;
 }
 #map {
     /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
